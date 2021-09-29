@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Actividad.1.Delimitadores", "Actividad.1.Delimitadores\Actividad.1.Delimitadores.vcxproj", "{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Debug|x64.ActiveCfg = Debug|x64
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Debug|x64.Build.0 = Debug|x64
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Debug|x86.Build.0 = Debug|Win32
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Release|x64.ActiveCfg = Release|x64
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Release|x64.Build.0 = Release|x64
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Release|x86.ActiveCfg = Release|Win32
+		{DDB99BAA-0E5E-49F7-BA57-8FBB444648FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FF0367-0B89-4A83-9F40-78148F56E83D}
+	EndGlobalSection
+EndGlobal
